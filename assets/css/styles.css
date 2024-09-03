@@ -294,6 +294,10 @@ img {
   background-color: var(--first-color-alt);
 }
 
+.button:active {
+  scale: 0.9;
+}
+
 /*========== ABOUT ==========*/
 .about__data {
   text-align: center;
